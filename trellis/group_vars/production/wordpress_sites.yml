@@ -9,7 +9,7 @@ wordpress_sites:
       - nikodim.lv
     local_path: ../site
     branch: master
-    repo: git@github.com:example/example.com.git
+    repo: git@github.com:deadly-sun/nikodim.lv.git
     repo_subtree_path: site
     multisite:
       enabled: false
