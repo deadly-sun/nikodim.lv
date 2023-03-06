@@ -8,7 +8,7 @@ wordpress_sites:
       redirects:
       - nikodim.lv
     local_path: ../site
-    branch: master
+    branch: production
     repo: git@github.com:deadly-sun/nikodim.lv.git
     repo_subtree_path: site
     multisite:
