@@ -1,3 +1,9 @@
 path: web/wp
 server:
   docroot: web
+  @development:
+     ssh: vagrant@nikodim.test/srv/www/nikodim.lv/current
+  @staging:
+     ssh: web@staging.nikodim.lv/srv/www/nikodim.lv/current
+  @production:
+     ssh: web@nikodim.lv/srv/www/nikodim.lv/current
