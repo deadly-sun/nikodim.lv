@@ -5,7 +5,7 @@
 # Copyright (c) Ben Word
 
 DEVDIR="web/app/uploads/"
-DEVSITE="https://example.test"
+DEVSITE="http://nikodim.test"
 
 PRODDIR="web@167.172.164.174:/srv/www/nikodim.lv/shared/uploads/"
 PRODSITE="https://nikodim.lv"
